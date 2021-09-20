@@ -19,6 +19,7 @@ public class Hauteskundeak {
 	}
 
 	public static void main(String[] args) {
+		//Aitor-en proiektua frogatzen frogatzen
 		Hauteskundeak h2021 = new Hauteskundeak();
 
 		h2021.gehituMahaia("Irun");
